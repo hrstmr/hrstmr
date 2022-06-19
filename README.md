@@ -6,7 +6,7 @@ Full Stack Developer
 
 * 🌍  I'm based in Melbourne
 * 🖥️  See my portfolio at [htomar](http://htomar.com)
-* 🚀  I'm currently working on [Doc refresh](http://doc-refresh.web.app)
+* 🚀  I'm currently working on an app to manage documentation.
 * 🌱  I'm learning Firebase
 * 🤝  I'm open to collaborating on anything to do with mental health
 
