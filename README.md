@@ -6,9 +6,9 @@ Full Stack Developer
 
 **🌍  I'm based in Melbourne**  
 **🖥️  See my portfolio at [htomar](http://htomar.com)**   
-**🚀  I'm currently working on an app to manage documentation**   
+**📑  I'm currently working on an app to manage documentation**   
 **🌱  I'm learning Firebase**   
-**📈  I'm getting better with TypeScript and Angular**   
+**⏫  I'm leveling up my TypeScript and Angular skills**   
 **❤️‍🩹  I'm open to collaborate on anything to do with healthcare**
 
 ### Skills
