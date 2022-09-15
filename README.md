@@ -8,7 +8,7 @@ Full Stack Developer
 **🖥️  See my portfolio at [htomar](http://htomar.com)**   
 **📑  I'm currently working on an app to manage documentation**   
 **🌱  I'm learning DevOps**   
-**⏫  I'm leveling up my TypeScript and Angular skills**   
+**⏫  I'm leveling up my TypeScript, C# and Angular skills**   
 **❤️‍🩹  I'm open to collaborate on anything to do with healthcare**
 
 ### Skills
