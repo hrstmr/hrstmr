@@ -5,7 +5,7 @@ Full Stack Developer
 --------------------
 
 **🌍  I'm based in Melbourne**  
-**🖥️  See my portfolio at [htomar](http://htomar.com)**   
+**🖥️  See my portfolio at [htomar](http://htomar.dev)**   
 **📑  I'm currently working on an app to manage documentation**   
 **🌱  I'm learning DevOps**   
 **⏫  I'm leveling up my TypeScript, C# and Angular skills**   
